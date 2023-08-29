@@ -1,13 +1,26 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Terry McTest ST558"
+author: "Terry"
+description: "
+<b>What do you think being a data scientist is about?</b>  
+In very broad terms, I'd say being a data scientist is about facilitating the use of data to inform decision-making.
+
+<b>What do you see as the major duties and/or knowledge areas?</b>  
+Harvesting data and preparing data for analysis; performing statistical analyses; distilling data and analytic results; drawing conclusions.
+
+<b>What differences/similarities do you see between data scientists and statisticians?</b>  
+The distinction between the two (data scientists vs. statisticians) is still a bit fuzzy to me, but I get the sense that, relative to statisticians, data scientists may be a bit more involved in pre-analysis activities (e.g. data harvesting, data cleaning, and data re-structuring) and may be a bit more "techy" (e.g. they may know more programming languages; they may be proficient with a wider array of apps/tools/platforms; they may be more likely to employ automation or machine learning), while statisticians may be more likely to employ advanced modelling techniques and/or more likely to address research questions that are more "pure science" in nature (e.g. "the process that underlies ABC appears to be one in which X influences Y, which then mediates Z").  That being said, it seems that similarities abound between the two; namely, both are using data, both are harnessing the power of computers, both are performing statistical analyses, and both are using combinations thereof to answer questions of interest.
+
+<b>How do you view yourself in relation to these two areas?</b>
+I would consider myself neither a full-fledged data scientist nor a full-fledged statistician, though I'm hoping to gain additional skills in either/both arenas.
+" 
+# This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#email: "example@mail.com"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
