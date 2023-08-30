@@ -1,8 +1,8 @@
 # Oh, Terry, you done done it again!!!
 ## (another bloggy creation by Terry McTest)  
 ### (and when I say bloggy, I mean verrrrry bloggy)
-####  
-#####  
+  
+  
 Hey there, my Fine Feathered Friends! (thats _"FFF"_ for those in the know)  Terry McTest here, and I'm a self-proclaimed **blog-inator**.  Thats like a Blogger Extraordinaire, only better.  I love all things tech-y and computerweb-y, and if theres a way to get some `good ole fashioned code` up in this piece, well lets just say, I'm all for it.  As a dear friend of mine used to tell me,  
 >It's all just typing!  
 
