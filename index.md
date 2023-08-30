@@ -1,7 +1,14 @@
-# Oh, Terry, you've done done it again!!!
+# Oh, Terry, you done done it again!!!
 ## (another bloggy creation by Terry McTest)  
-
-Hey there, my Fine Feathered Friends! (thats _"FFF"_ for those in the know)  M'names Terry McTest, and I'm a self-proclaimed **blogger extraordinaire**.  I love all things tech-y and computerweb-y, and if theres a way to get some good ole fashioned `code` up in this piece, well lets just say, I am all for it!  As a good friend of mine used to tell me,  
+### (and when I say bloggy, I mean verrrrry bloggy)
+####  
+#####  
+Hey there, my Fine Feathered Friends! (thats _"FFF"_ for those in the know)  Terry McTest here, and I'm a self-proclaimed **blog-inator**.  Thats like a Blogger Extraordinaire, only better.  I love all things tech-y and computerweb-y, and if theres a way to get some `good ole fashioned code` up in this piece, well lets just say, I'm all for it.  As a dear friend of mine used to tell me,  
 >It's all just typing!  
 
-So lets not stress ourselves for one lil ole second.
+So, lets not stress ourselves about this for one lil ole second.  Now don't ask me why, but I have a sneaking suspicion that maybe you need... to see a picture?!  Yeah, a picture!  
+>You shall see things, wonderful to tell.
+
+You mean like...  a cow?  On the roof of a cotton house?!  No, actually I mean like this silly ole dog, wearing some silly ole shades:  
+
+Welp, now you've seen it.  So lets get this bloggy thang goin'.  If you want to reach out, just shoot me an ebay message at #THErealTerryMcTest@ebay.gov.  I'll be talkin to yall real soon.
