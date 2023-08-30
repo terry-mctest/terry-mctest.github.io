@@ -10,5 +10,5 @@ So, lets not stress ourselves about this for one lil ole second.  Now don't ask 
 >You shall see things, wonderful to tell.
 
 You mean like...  a cow?  On the roof of a cotton house?!  No, actually I mean like this silly ole dog, wearing some silly ole shades:  
-![dumb dog](/../main/20230830_180637.jpg)  
+![dumb dog](/../main/20230830_182956.jpg)  
 Welp, now you've seen it.  So lets get this bloggy thang goin'.  If you want to reach out, just shoot me an ebay message at #THErealTerryMcTest@ebay.gov.  I'll be talkin to yall real soon.
