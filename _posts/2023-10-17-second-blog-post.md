@@ -1,1 +1,10 @@
+**For your blog post, write up the strategy you use for EDA.** 
 
+**What is your overall goal when doing an EDA?**  In general terms, the over-arching goal is to gain a better understanding of the data with which one is working.  The EDA may be used to make an initial evaluation of the feasibility of using said data to investigate questions of interest, and/or may used to generate other questions which said data may be useful in addressing.  In so doing, one may wish to summarize the data, often times using graphs (e.g. "a picture's worth a thousand words").
+
+**What methods do you think are important?** 
+
+**What things do you try to look for?** 
+* How data are structured, e.g. is there one record per unit, or multiple records per unit
+* The contents of the data, e.g. what measures are included in the data
+* Patterns of missing data, e.g. scope and prevalence of missing-ness, and whether data is legitimately
